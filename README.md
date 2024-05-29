@@ -1,0 +1,1 @@
+適用fugle datamarket，對不同股票設定不同的size
